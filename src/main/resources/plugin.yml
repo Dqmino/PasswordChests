@@ -1,0 +1,8 @@
+name: PasswordChests
+version: '1.0'
+main: codes.domino.passwordchests.PasswordChests
+api-version: '1.20'
+authors: [ domino ]
+description: A plugin that allows you to assign passwords to chests
+website: https://domino.codes
+softdepend: [WorldGuard]
